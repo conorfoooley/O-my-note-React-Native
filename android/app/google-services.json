@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "849077470765",
+    "firebase_url": "https://omynote-ee0ca.firebaseio.com",
+    "project_id": "omynote-ee0ca",
+    "storage_bucket": "omynote-ee0ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849077470765:android:e8c1fd44e09b9d50495aa4",
+        "android_client_info": {
+          "package_name": "io.omynote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849077470765-e41sdpgjuel26si2t2mtp5fuig363rov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.omynote",
+            "certificate_hash": "c5cf2a21dc68bbbd7fbb3ca899dddc653f796f32"
+          }
+        },
+        {
+          "client_id": "849077470765-m03pv33v2ub3hrt5uh0n22d64j9btqhk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.omynote",
+            "certificate_hash": "8c10d2d3636ed8c4ebe76d791e3b9a029a01deb5"
+          }
+        },
+        {
+          "client_id": "849077470765-mfj1t9iou0plasn4qdvo9euji5ekkfkb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.omynote",
+            "certificate_hash": "ccdd2682ec8e70bb7b4bb034d6f308073f3fac38"
+          }
+        },
+        {
+          "client_id": "849077470765-bd5lhubgqmkcp9avtbdem8vf6mpbrdes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiW-5g7snpshMt6CKjlU70mO63xagMwE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849077470765-bd5lhubgqmkcp9avtbdem8vf6mpbrdes.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "849077470765-3j1tdnve47aitvlu2umb26gu241ipncr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.omynote"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
